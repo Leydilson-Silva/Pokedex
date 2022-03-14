@@ -35,3 +35,7 @@
 .listagem .pokemon.ativo{
     background-color: #FA6668;
 }
+
+.listagem .pokemon.pokemon.ativo img{
+    width: 39%;
+}
