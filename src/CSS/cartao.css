@@ -41,7 +41,7 @@
 }
 
 .cartao-pokemon .cartao-informacoes{
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     display: flex;
     justify-content: space-between;
     padding: 80px 30px 50px;
@@ -97,4 +97,36 @@
 
 .tipo-dragao{
     background-color: #c29791;
+}
+
+
+/* Tipos de axie */
+.tipo-plant{
+    background-color: #6cc000;
+}
+.tipo-reptile{
+    background-color: #dc8be4;
+}
+.tipo-dusk{
+    background-color: #129092;
+}
+
+.tipo-bird{
+    background-color: #ff8bbd;
+}
+.tipo-aquatic{
+    background-color: #00b8ce;
+}
+.tipo-dawn{
+    background-color: #beceff;
+}
+
+.tipo-beast{
+    background-color: #ffb812;
+}
+.tipo-bug{
+    background-color: #ff5341;
+}
+.tipo-mech{
+    background-color: #c6bdd4;
 }
